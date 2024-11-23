@@ -1,1 +1,0 @@
-import{a as s,r as a,a6 as r,o as u,b as e,u as l,a7 as n}from"./index-DMAbh2qa.js";const t=s({__name:"index",setup(s){const t=a("");return r((s=>{s.url&&(t.value=s.url)})),(s,a)=>{const r=n;return u(),e(r,{class:"h-full",src:l(t)},null,8,["src"])}}});export{t as default};
