@@ -1,0 +1,1 @@
+import{d as s,h as a,a3 as e,o as n,a as r,e as o,ac as t}from"./index-BDBsvLyr.js";const l=s({__name:"index",setup(s){const l=a("");return e((s=>{s.url&&(l.value=decodeURIComponent(s.url))})),(s,a)=>{const e=t;return n(),r(e,{class:"h-full",src:o(l)},null,8,["src"])}}});export{l as default};
